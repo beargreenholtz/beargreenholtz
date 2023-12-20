@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi, I'm Bar Greenholtz
+## Full Stack Developer
+
+As a driven Full Stack Developer, I am committed to crafting efficient and innovative solutions that elevate user experiences and streamline processes. My enthusiasm for technology drives me to continuously explore and master new tools and methodologies. valuing collaboration and collective growth, and I'm always ready to go the extra mile to achieve project goals.
+
+**Reach me at:** bargreenholtz@gmail.com
+
+**Connect with me:**  
+[Your LinkedIn Profile URL](https://www.linkedin.com/in/bar-g-805ba8242/)
+
+**Languages and Tools:**  
+React, Node.js, MongoDB, Typscript, Scss and more...
+`React`, `Node.js`, `MongoDB`, `[Other Languages and Tools You Use]`
 
 <!--
 **beargreenholtz/beargreenholtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
