@@ -6,7 +6,7 @@ As a driven Full Stack Developer, I am committed to crafting efficient and innov
 **Reach me at:** bargreenholtz@gmail.com
 
 **Connect with me:**  
-[Your LinkedIn Profile URL](https://www.linkedin.com/in/bar-g-805ba8242/)
+[Linkedin](https://www.linkedin.com/in/bar-g-805ba8242/)
 
 **Languages and Tools:**  
 React, Node.js, MongoDB, Typscript, Scss and more...
