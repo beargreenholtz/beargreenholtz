@@ -9,8 +9,7 @@ As a driven Full Stack Developer, I am committed to crafting efficient and innov
 [Linkedin](https://www.linkedin.com/in/bar-g-805ba8242/)
 
 **Languages and Tools:**  
-React, Node.js, MongoDB, Typscript, Scss and more...
-`React`, `Node.js`, `MongoDB`, `[Other Languages and Tools You Use]`
+`React`, `Node.js`, `MongoDB`, `[and more...]`
 
 <!--
 **beargreenholtz/beargreenholtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
